@@ -22,7 +22,7 @@ Below, you can see a few images from the website:
 
 ## Dependencies
 
-### Packages
+### Tools 
 
 - Dotnet 8.0
 - Sql Server 2019
