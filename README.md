@@ -1,4 +1,4 @@
-# The Modern Login Template
+# The [Namutel](https://namutel.com) Landing
 
 <p float="left">
   <img src="cover.png" alt="cover" />
